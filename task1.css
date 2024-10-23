@@ -1,0 +1,43 @@
+body {
+background-color: #FAF9F6;
+text-align: center;
+}
+
+.mother-div{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+
+
+.p1 {
+ 
+   font-size: 16px; 
+   font-weight: 200;
+
+}
+
+.p2{
+ font-weight: 700;
+ font-size: 50px;
+
+}
+
+.p3 {
+    font-size: 15px;
+    font-weight: 200;
+    margin-bottom: 100px;
+}
+
+a{
+    color: #B59410; ;
+    text-decoration:none ;
+    border-style: solid;
+    border: width 1px;;
+    border-color: #B59410;
+    padding: 10px;
+}
